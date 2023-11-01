@@ -5,5 +5,5 @@ The group member are as follows
 
 |Name|e-mail|
 |----|------|
-|John Doe|johdoe@gmail.com|
+|John Doe|johndoe@gmail.com|
 |JohnnyDorry|johnnydorry@gmail.com|
