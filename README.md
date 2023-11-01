@@ -6,4 +6,4 @@ The group member are as follows
 |Name|e-mail|
 |----|------|
 |John Doe|johndoe@gmail.com|
-|JohnnyDorry|johnnydorry@gmail.com|
+|Johnny Dorry|johnnydorry@gmail.com|
